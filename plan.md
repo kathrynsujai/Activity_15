@@ -47,6 +47,7 @@ Goal 1.d:
 
 Goal 1.e:
 1) Create a code appendix showcasing all the code using the codeAppend function
+and echo = True to show the code at the end. 
 
 Goal 2:
 1) Create a new repository on GitHub and link it to R.
