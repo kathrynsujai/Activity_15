@@ -12,11 +12,11 @@ The data used in this project include: Armed Forces Active Duty Data from "https
 5. Do final commits and merge the sub branch with the main branch. 
 
 #Repo Organization: 
-Activity_14.Rproj -> An R project stored in R
-README.md -> file that contains main information
-Act_15.qmd -> the qmd file that will create the site/pdf of all the data
-Act_15.pdf -> pdf of the file with all needed information
-plan.md -> overall plan of the qmd file. 
+Activity_14.Rproj: An R project stored in R
+README.md: file that contains main information
+Act_15.qmd: the qmd file that will create the site/pdf of all the data
+Act_15.pdf:  pdf of the file with all needed information
+plan.md: overall plan of the qmd file. 
 
 #Contact Info:
 For more information contact Kathryn Sujai at kathryn.sujai@gmail.com
