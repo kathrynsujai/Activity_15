@@ -43,7 +43,7 @@ Goal 1.c:
 3) Write an explanation about the relationship portrayed in the graph. 
 
 Goal 1.d:
-1) Create a subsection that explains eveyrthing learned in this class
+1) Create a subsection that explains everything learned in this class
 
 Goal 1.e:
 1) Create a code appendix showcasing all the code using the codeAppend function
